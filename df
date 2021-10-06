@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Sitec IS",
+        "Head": "7400 Beach Drive",
+        "Description": "Gavin Sinclair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.06127071380615,
+          -36.83405389055342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "JHG",
+        "Head": "Shortstanton sidings",
+        "Description": "Conor Murphy",
+        "URL": "<a href='https://www.johnhenrygroup.co.uk/' target='blank'>JHG</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05657148361206,
+          -36.80085757191641
+        ]
+      }
+    }
+  ]
+}
